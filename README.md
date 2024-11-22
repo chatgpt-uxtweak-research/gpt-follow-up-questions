@@ -22,7 +22,17 @@ An experiment is conducted with 60 participants. The results are compared betwee
 
 ## Paper citation
 
-Not published yet.
+```bibtex
+@article{doi:10.1080/10447318.2024.2427978,
+title = {Unmoderated Usability Studies Evolved: Can GPT Ask Useful Follow-up Questions?},
+journal = {International Journal of Human–Computer Interaction},
+year = {2024},
+publisher = {Taylor & Francis},
+doi = {https://doi.org/10.1080/10447318.2024.2427978},
+url = {https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2427978},
+author = {Eduard Kuric and Peter Demcak and Matus Krajcovic}
+}
+```
 
 ## Dataset
 
